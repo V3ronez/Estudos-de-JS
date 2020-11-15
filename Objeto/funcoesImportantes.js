@@ -1,6 +1,6 @@
 const pessoa = {
     nome: 'Rebeca',
-    idade: 2,
+    idade: 20,
     peso: 13
 }
 
