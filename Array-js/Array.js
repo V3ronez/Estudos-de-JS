@@ -6,7 +6,7 @@ console.log(aprovados)
 aprovados = ['Bia', 'Henriq', 'Carlos']
 console.log(aprovados[0])
 
-aprovados[3] = 'Maria' //metodo melhor para substituir 
+aprovados[2] = 'Maria' //metodo melhor para substituir 
 aprovados.push('pedro') //metodo melhor para adicionar novo elemento no array
 console.log(aprovados.length)
 console.log(aprovados)
